@@ -1,0 +1,4 @@
+StarterSite
+===========
+
+Basic website template
